@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelDavid60322
-- 👀 I’m interested in starting my carreer off in Web Development.
+- 👀 I’m interested in starting my carreer off in Front End.
 - 🌱 I’m currently learning Software Development 
 - 📫 How to reach me https://www.linkedin.com/in/samuel-david-60322/ or samuelkehindedavid@outlook.com 
 
